@@ -1,0 +1,3 @@
+Before the demonstration we misunderstood the task requirements and completed the dh key exchange, defense against man-in-the-middle attack and defense against offline dictionary attack respectively. Through discussions with Mrs. Xinyu, we clarified the correct implementation direction and reconstructed the original separated modules into an integrated OPAQUE protocol, thus systematically solving the problems of DH key exchange, man-in-the-middle attack defense and offline dictionary attack defense.
+
+This folder contains the error code for the display (DH_exchange folder), and the complete OPAQUE code (complete opaque.py) modified after the display.
